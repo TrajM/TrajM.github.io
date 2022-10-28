@@ -573,7 +573,7 @@ pre code {
     max-width: 1140px;
   }
 }
-.row {
+.justify-content-center {
   display: flex;
   flex-wrap: wrap;
   margin-right: -1.5rem;
@@ -6073,7 +6073,8 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #1abc9c !important;
+  background-color: #76a57a !important;
+  /*#1abc9c */
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
